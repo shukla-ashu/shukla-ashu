@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Hello World, I'm Ashutosh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<!-- <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Hello World, I'm Ashutosh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 </h1>
 
 <h3 align="center">A passionate Automation Test Engineer with great interest in DevOps</h3>
@@ -32,3 +32,4 @@
 
 
 ![Visits](https://visitor-badge.glitch.me/badge?page_id=shukla-ashu.shukla-ashu)
+ -->
