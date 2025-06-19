@@ -1,35 +1,56 @@
-<!-- <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Hello World, I'm Ashutosh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-</h1>
+# Hi there! 👋 I'm Ashutosh Shukla
 
-<h3 align="center">A passionate Automation Test Engineer with great interest in DevOps</h3>
+## 🚀 About Me
+Passionate Software Engineer with experience in building scalable applications and robust backend systems. I love crafting clean, efficient code and turning complex problems into elegant solutions.
 
+**Location:** Bangalore, India  
+**Focus:** Backend Development | System Design | Full-Stack Applications  
+**Philosophy:** Write code that scales, test what matters, ship with confidence
 
-- 🔭 I’m currently exploring various solutions of setting up scalable Test Automation infrastructure on Cloud Platforms.
+## 🛠️ Tech Stack
 
-- 🌱 I’m currently learning **Kubernetes, Ansible and ELK stack**
+**Languages & Frameworks**
+- **Backend:** Java (Spring Boot), Python, Node.js
+- **Frontend:** JavaScript, TypeScript, React
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
 
-- 💬 Ask me about **Designing Automation Frameworks**
-
-
-<h3 align="left"><b>:man_technologist: Languages and Tools:</b></h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.ansible.com" target="_blank"> <img src="images/ansible.svg" alt="Ansible" width="40" height="40"/> </a></p>
-
-
-
-<h3 align="left"><b>📧 Connect with me:</b></h3>
-
-[![Linkedin Badge](https://img.shields.io/badge/-ashu--shukla-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashu-shukla/) 
-[![Mail Badge](https://img.shields.io/badge/-ashu9632shukla-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashu9632shukla@gmail.com)
-
-<!--
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ashu9632.ashu9632"></img>
-</p>
--->
-
-<!-- <h3 align="left"><b>Profile Visits: </b></h3>
+**What I Build**
+- RESTful APIs and microservices architectures
+- Real-time applications with WebSocket integration
+- Scalable web applications with modern tech stacks
+- Automated deployment pipelines and infrastructure
 
 
+## 🎯 Featured Projects
 
-![Visits](https://visitor-badge.glitch.me/badge?page_id=shukla-ashu.shukla-ashu)
+🔗 **URL Shortener Service** - Scalable URL shortening service built with Java Spring Boot and Redis  
+💬 **Real-time Chat Application** - Microservices-based chat platform with WebSocket integration  
+🛒 **E-commerce Platform** - Full-stack shopping platform with payment integration  
+⚡ **System Design Patterns** - Implementation of common scalable system patterns  
+<!-- 
+## 📊 GitHub Stats
+
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shukla-ashu&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shukla-ashu&layout=compact&theme=radical&hide_border=true)
  -->
+
+## 🌱 What Drives Me
+
+- **Problem Solving:** I enjoy breaking down complex technical challenges into manageable solutions
+- **Continuous Learning:** Always exploring new technologies and best practices in software engineering
+- **Code Quality:** Believer in writing maintainable, well-tested, and documented code
+- **Collaboration:** Open to contributing to interesting projects and learning from the community
+
+
+## 🤝 Let's Connect!
+
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ashu-shukla)
+<!-- - 🌐 **Portfolio:** [View my work](https://your-portfolio-url.com)   -->
+- 📧 **Email:** ashu.shukla.work@gmail.com
+- 💬 **Open to:** Collaborations, interesting projects, and tech discussions
+
+---
+
+*"Great software is built by people who care about making something excellent for its own sake." - Building one commit at a time* ⚡
